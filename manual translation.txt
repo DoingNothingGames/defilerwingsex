@@ -1,0 +1,132 @@
+﻿DEFILER WINGS
+
+Guide to the Game
+
+The game's story is of you taking over the management of a whole genus of dragons, one at a time. Each of your dragons will need to perform a certain task for your Mistress within a limited period of time. Once the task is done, you can wait until the time limit is over or you can return to the Mistress. After performing the task you continue to play on as a new dragon, with one additional trait selected of the three offered to you and you get a new job. After you have completed 12 tasks, you will move on to the final task. After completing it, you will unlock 'Free Play'. The second way to finish Story Mode is betrayal - attack the Mistress and crush her in a fair fight. In the game there are 23 achievements that can be unlocked by achieving certain results in the Story Mode. Each achievement you unlock will allow you to add one additional trait to your dragon in the Free Play. To unlock all the achievements will require several playthroughs of the games, using different methods and different types of dragons.
+
+
+INTERFACE (MAIN MENU)
+
+1) Start a new game. The game is automatically saved every year and when you leave the game. If you have an active story game, the button changes to 'continue', which will continue the game from the last slave. To reset the game, use the 'settings' menu.
+2) Displays the unlocked achievements. After finishing the story campaign, this button changes to 'Start Free Play', which will allow you to play in sandbox mode. This mode will also autosave, and when a game is in progress this button will change to 'continue'. It can also be reset using the settings menu.
+3) Settings Menu.
+4) Opens this guide.
+5) Terminate the game.
+6) You can use these buttons to move to a donation page. Support the developers financially and they will give you exciting new games!
+
+
+INTERFACE (SETTINGS)
+
+Settings are available from the main menu and from anywhere in the game by pressing escape.
+
+1) All of the menu items in this column are useless and do nothing.
+2) These items are also futile.
+3) Choose windowed or full screen mode.
+4) Allows you to reset and start over story or free play.
+5) Adjust the volume of the music.
+6) Adjust the volume of sounds (moans of women and the roar of the dragon)
+7) Returns you to the game, if you entered this page by pressing escape.
+8) Exits to the main menu
+9) Opens the file readme.txt
+10) Exits the game without saving your progress.
+
+
+INTERFACE (MENU MAP)
+
+1) The counting of years in the game is conducted from the beginning of the 'Era of the Dragon' - the year when the first dragon appeared in the land of the Free Peoples. Each dragon will grow for ten years before entering the world. In parentheses is the number of years spent in the Free Lands by the current dragon. Use this to estimate the amount of time remaining on your current task. Do not forget that a wounded dragon will sleep for several years.
+
+2) The amount of money in your treasury. Important: This is not the total value of all of your treasure, only the coins (gold dubloons, silver tallers and copper farthings) with their total value given in farthings. Cash coins can be spent at jewellers, gremlins and smugglers. If you do not have enough coins you can sell trinkets at the jewellers in the city (for full price) or at the smugglers (at a reduced price). You can see the total value of your treasure in your lair by selecting 'admire treasures'.
+
+3) Energy level. Many activities such as looting or battle take energy. When a dragon spends all their energy, they can only take limited action in the den, the gremlin village, and the Land of Darkness. To restore energy, go into the lair and sleep. Dragons sleep for at least one year (longer if injured) to restore energy to maximum. While the dragon sleeps, people act - read reports about it as the dragon sleeps.
+
+4) Notoriety level. Some tasks will require you to increase your notoriety, but in general it is not good for this to be high. Notoriety will rise due to aggressive actions towards the inhabitants of the Free Lands. The higher the notoriety level, the more likely it is that thieves and knights will begin to hunt for the dragon. In addition, notoriety sets the bar for mobilisation of the Free Lands. Mobilisation will increase by one point every year until they reach the level of notoriety. The higher the mobilisation, the more you will come across patrols and the stronger they will be. Reducing notoriety is impossible, but it is possible to reduce mobilisation - razing villages, burning infrastructure, slaughtering recruits, releasing the dragon's spawn, and financing terrorism through smugglers. At high ruin you will often come across abandoned places you will not be able to rob.
+
+5) Mana level. The dragon can use mana to cast spells in the den. Mana also comes in handy for some random encounters, so try to have at least one in reserve. Maximum mana depends on the level of your dragon's magical ability, and it can be zero, in which case the dragon cannot cast spells. After sleeping, maximum mana will  be restored and all spells cast will disappear.
+
+6) The level of a dragon's hunger, from 'starving' to 'overfull'. Hunger is a resource. Consuming a variety of things can get you various bonuses. Any meal will restore the dragon's calm to maximum. Eating a woman will return one level of lust. Some wild creatures will give you a bonus to a particular attribute to the end of the year. Use the possibilities of hunger efficiently, but do not be afraid to go to bed hungry - the dragon will safely hunt to feed itself before going to sleep if necessary.
+
+7) Lust level. Lust is spent on fertilising women. When you rape a suitable woman (a virgin or a giantess), they will become pregnant. A pregnant woman (if not a giantess) can be killed if they are free, as people are terrified of the possibility of a dragon's spawn. If a pregnant woman is locked in the lair, she can escape if it is unguarded. If she does not run away but you do not have servants in the lair, she will die of hunger and won't give birth. If she survives the year, she will give birth to monsters. Monsters born by a free woman will automatically begin to terrorise the Free Lands. Monsters born in the lair will be available to be assigned either to the lair, the Army of Darkness, or to terrorise the Free Lands.
+
+8) Calmness level. Every time the dragon casts a spell or chooses to conserve energy instead of confronting something they have encountered, they will gradually become furious. When their patience runs out, they will no longer be able to avoid encounters (and will attack automatically if appropriate) and will not be able to cast spells. To restore calm, eat someone.
+
+9) The dragon's health. It has three levels: Healthy, Wounded, and Half-Dead. Each time the dragon takes damage their health will be reduced. If a Half-Dead dragon is hit, they will lose a head - if it is their final or only head, they die. We recommend you run from a fight if you are seriously injured.
+
+The map is interactive. When you hover over a particular zone, the name will be displayed at the top of a screen. To go to a region, simply click on it. In dialogues and reports, you can click the middle mouse button to hide the text and see the image without obstruction.
+
+
+FAQ:
+
+Q: What does the spell do? They don't have descriptions :(((
+A: Sorry, there was no appropriate place to put them in the game, so they've been put here :)
+
+Sinister Aura: Gives a bonus to intimidation.
+Magic Trap: Has a chance to kill a thief before they reach the treasury.
+Breath of...: Gives an additional attack of that type.
+Protection against...: Gives full immunity to an element. For example, cast Protection from Lightning before fighting a Titan, and his attacks on you will be weaker because his lightning is useless.
+Thunder Roar: Gives the dragon a thunder attack (not lightning, just the sound)
+Wing of Wind: Provides the ability to fly and +1 energy.
+Inseminator: All women in the game can give birth to a weak or strong monster. To give birth to the best offspring requires either high levels of magic, or this spell.
+Phantom Head: If an enemy wounds a Half-Dead dragon with this spell, they will cut off the phantom head instead of a more important one.
+Gills: Allows you to enter the ocean.
+
+Q: If I have a red dragon, and I cast 'Breath of Fire', will I get uber fiery breath?
+A: No. All the effects are all-or-nothing.
+
+Q: What if I eat twenty bears in a row?
+A: The special effects of the meat do not stack. You can combine the effects of different meats, however.
+
+Q: Why do you need intimidation?
+A: More chance that the enemy will run away from the dragon without a fight. This is also increased by the strength and size of the dragon.
+
+Q: Why don't I see a free game?
+A: It will open after victory in the Story Mode.
+
+Q: Why can't I select any trait I want? I want to develop as I wish and not be limited to 13 traits!
+A: There is a free game mode. It allows you to choose your dragons traits, with a maximum level depending on your unlocked achievements.
+
+Q: Why can't I fertilize a giantess?
+A: Your dragon is too small. You can use the spell 'temporary growth' if you have mana when interacting with a giantess.
+
+Q: What if I don't have a magical dragon?
+A: Seek the help of a witch.
+
+Q: What is the meaning of rock dragon without wings and magic? Imba!
+A: Some types of dragon are stronger than others, but firstly they are not always available, and secondly, they will not allow you to unlock all the achievements. Use different varieties!
+
+Q: How do I find the expensive treasures for the Mistress' gift?
+A: Very expensive treasures can be found in the Royal Castle, the Dwarvern Kingdom, the Tree of Life, and the Titans. But you can make something valuable yourself. The key points are expensive precious stones (coloured diamonds, emeralds, rubies, sapphires, etc). Encust jewels in each slot and it will become very valuable. Such stones can be found in the mountains, in mines protected by armoured infantry.
+
+Q: How do I get to the elves?
+A: To do this, you need to have magic. Catch an elf in the forest, and extract the location of the sacred grove from him. It will appear in the 'places' tab.
+
+Q: How do I go into the water?
+A: You need a blue dragon.
+
+Q: How do I reduce mobilisation for the quest?
+A: To reduce it, it has to increase first. This occurs only when the dragon sleeps with notoriety. Do not start destroying the kingdom immediately, get a couple of points of notoriety and go to bed. Then embark on actions to reduce mobilisation. For example, financing terror through the smugglers.
+
+Q: How do I gain a lot of money for the quest?
+A: The best way is to rob caravans in the Trade Route. You can also create expensive jewellery from stones and metals - in the form of jewellery, it will cost more than the raw resources.
+
+Q: What differences to different colours of dragons have?
+A: Well, if the in-game descriptions aren't enough...
+
+Green: This colour is the default, no special attacks.
+Red: Fire breath. Immune to fire. Start in the volcano lair.
+White: Ice breath. Immune to cold. Start in a snowy peak lair.
+Blue: Can swim underwater. Starts in an underwater lair.
+Black: +1 attack. Poisonous breath.
+Iron: +1 armour. Thunder roar (breathing sound resonance).
+Bronze: +1 armour. Able to dig (in some encounters and battle with the Mistress). Starting underground lair.
+Silver: +1 magic. Immune to lightning.
+Gold: +1 magic. -2 to the thief's chances of stealing from under the dragon's nose.
+Shadow: +2 fear, +1 magic power.
+
+Q: I fertilise giantesses, but the creature can only live in the lair or rampage in the Free Lands! How can I send this thing to the Army of Darkness?
+A: Your dragon isn't magical enough. Increase magic or use the spell 'inseminator'.
+
+Q: Does the Mistresses form while mating with her have an effect other than a different scene?
+No. Her form is purely for ambiance.
+
+Q: What is the difference between razing and robbing settlements in the rural area?
+A: The robbery makes less money, but razing increases poverty and devastation.

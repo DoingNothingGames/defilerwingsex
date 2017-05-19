@@ -1,0 +1,236 @@
+If a word is capitalized that isn't normally capitalized, it means it has it's own section, so see that for more info. The sections themselves are in no particular order. I've tried to avoid giving hard stats to avoid boiling the game down to numbers - Old Huntsman games are great at keeping a theme alive and I don't want to ruin it by tearing down the curtain and showing everyone the ticking guts of the game.
+
+With thanks to Hongfire, from whom I learned a lot of the mechanics of the game.
+
+
+Basic Mechanics:
+
+You have seven basic stats: hunger, lust, mood, health, energy, infamy, and magic.
+
+Hunger: Starving, Hungry, Full, and Overfull. Every time you eat, your hunger goes down one, and if you're Overfull you can't eat. Eating is useful mainly for restoring lust by eating girls or obtaining temporary buffs from eating rare creatures, so counterintuitively it's better to be hungry. Restored by resting or drinking if you find an inn.
+
+Lust: Lustful, Horny, Aroused, Exhausted. Every time you fuck, it goes down one. If you're exhausted, you can't fuck any more. Lust is useful for impregnating girls with dragonspawn and getting favours from the Witch (more on her later). Restored by resting, eating girls, or drinking if you find an inn.
+
+Mood: Placid, Calm, Tense, Annoyed, Angry, Furious. When you choose a location to visit, most of the time you will be able to leave without spending energy and nothing happens. This reduces your Mood. When you're Furious, you usually won't be able to leave, which can really fuck you over if you just ran into an encounter that's going to kick your arse. Restored by resting or eating a creature or girl.
+
+Health: Health, Wounded, Half-Dead. Combat can damage you, taking you down a health level. If you're at Half-Dead and take damage, you die, unless you've got more than one head, in which case you permanently lose a head. Restored by the Witch or by resting, though you will sleep an extra year for every level of damage restored.
+
+Energy: The default amount per year is 3, but it can increase if you have certain traits and there is a spell that can give you one point of Energy. It is the amount of things you can do in a year. Most of the time you can decide not to react to an encounter and avoid spending your Energy at the expense of your Mood.
+
+Infamy: Starts at 0 and can increase as high as 20. Every time you do something that gets noticed by the Free Peoples, your Infamy will increase fractionally, with the higher levels of infamy taking more notice to reach.
+
+Infamy is linked to two hidden stats: Preparation and Poverty. Both start at 0 and can go as high as 20. Every year Preparation will move towards Infamy minus Poverty by 1 every year, either up or down. As it rises, you will risk encountering more and more dangerous patrols as you explore, which begin combat immediately with no chance of backing out, costing Energy and risking your Health. You can also decrease Infamy at the Smuggler's Isle. Poverty can be increased by various acts to despoil the Free Peoples, though as it rises you start encountering wasteland as you explore, decreasing your Mood. It also decreases by one point every year.
+
+Magic: At the start you have no magic. Certain traits will give you a higher default value you will reset to after sleeping, and certain encounters can give you a point of temporary magic. Magic can be used to cast a number of useful Spells or give you new options at certain encounters.
+
+---
+
+Combat:
+
+Combat is fairly straightforward on the surface. You start combat, then every turn you hit either 'attack' or 'run away'. There are four results: both of you miss, both of you hit, or one or the other hits. If you hit, you win - all enemies only have a single point of Health. If you are hit, you lose a point of Health.
+
+Your chance of hitting and being hit depends on the stats of both your dragon and the enemy, both of which are hidden except for a comparison between the two that will give you a rough idea of your chances. Your Traits can increase your stats.
+
+---
+
+Locations: In rough order from least to most challenging, with utility areas at the end. Places listed can be found at those locations, and if you choose not to begin the encounter they will be added to the Places button, where you can go straight to them whenever you please.
+
+Rural Area:
+'Prowl Around' is the most variable option, giving you a variety of encounters to eat livestock, capture peasant girls, or disrupt the Free Peoples for an easy fight (militia) or a point of magic (granary, windmill). The rest of the options give the options to Demand Tribute, Rob, or Raze, at increasing difficulty and rewards as you go down the list. Rob gives you treasure for a fight, Raze gives you treasure and increases poverty for a fight. Demand Tribute requires Intimidation (from Traits or Spells) at increasing levels to be available, and gives the following rewards without a fight:
+
+Lonely Farmstead: A single cow, to be eaten.
+Small Village: A peasant girl.
+Village: A single trinket.
+Town: A merchant's daughter.
+City: A small amount of treasure.
+
+Forest:
+Gives a number of encounters with peasant girls, an ability to increase Poverty for Magic (sawmill), encounters with wildlife to eat (including boars to temporarily increase your base attack), buried treasure to dig up, and you can find elven guards that can unlock the Enchanted Forest if you beat them. Places: Ogre Den.
+
+Sea:
+Requires either a blue head from Traits or the Spell Gills to have been cast this turn. Has a number of encounters with Mermaids, mostly without fights, and you can find peasant girls diving for pearls and the daughters of merchants and nobles on pleasure yachts, as well as various things to eat (including sharks, which will temporarily increase your magic). There's also merchant ships to extort for easy profit and sunken treasure to find, and an extremely difficult fight with a treasure ship for a shitload of gold bars. Places: Underwater Palace.
+
+Trade Route:
+The bread and butter of the midgame. Features a number of caravans to rob or extort, carrying varying amounts of gold or noble's daughters in exchange for various fights, as well as encounters with knights for either their treasure or their sweethearts. Also features the tavern, which can be burned down or poisoned for laughs or shaken down for a barrel of booze to increase lust and hunger. Places: Manor, Motte and Bailey, Monastery, Castle, Palace.
+
+Mountains:
+The place to find components for trinkets. Has mines of smugglers, silver, gold, semi-precious and precious stones, mithril, and adamantium, which can be extorted or fought at varying difficulty levels. Other things to find are buried treasure, wildlife to snack on (including bears to temporarily increase your base defence), slavers to shake down for a snack or fight for a merchant's daughter. Places: Mountain Gate, Ice Citadel, Volcanic Cave.
+
+Sky:
+If you can fly from Traits or Spells, this place offers a grab-bag of difficult and profitable encounters, such as rich caravans and Dwarvern airships, and griffins to eat to increase your base magic. Places: Castle, Palace, Ice Citadel, Volcanic Cave, Cloud Castle.
+
+Utility Areas: No exploration, just menus.
+
+Capital:
+If you can fly or have a point of magic to disguise yourself, this has a lot of options; otherwise, just one. The Marketplace will give you a merchant's daughter without a fight, the cathedral a handful of trinkets without a fight. The Jeweler's Shop / Rich District can give you a noble's daughter, a handful of components, or some treasure for a moderately difficult fight, whereas the palace can give you more of the same for a more difficult fight. If you go in in disguise, you can also visit the Jeweler as a customer rather than a conquerer, which is useful for some Quests requiring valuable trinkets, as well as selling your trinkets for a better rate than the smugglers will give you.
+
+Lands of Darkness: 
+The game hub of sorts, where you can check your current Quest, turn it in early if you've completed it, check the progress of the Army of Darkness, and start one of the two endgames.
+
+Smugglers' Den:
+Where you can hire guards, sell trinkets (at a fraction of their value), finance terrorism (reducing the Preparation of the Free Peoples), and get information on and sabotage any Thieves or Knights currently pursuing you. Sabotaging the Thief kills them, whereas sabotaging the Knight takes away all of their items.
+
+Gremlin Village:
+Where you can hire servants, improve your lair, and turn your materials into jewellery.
+
+The Ruins:
+The home of the Witch, who should be your best friend. If you have max lust, you can reduce this to 0 in exchange for either a full heal, a temporary point of magic, or a few dubloons. A full heal means you don't have to spend years - years you have a limited amount of, years the Free Peoples spend mobilizing and rebuilding, years knights and thieves spend trying to find you - healing up by resting. A point of magic gives you a lot more options, especially if you don't have any but even if you've already got some. Note it does not stack with griffin or shark meat.
+
+Lair:
+Go here to sleep, check a number of stats (including getting the full value of all your treasures, instead of the liquid cash only value at the top of the screen), interact with your hostages, and cast spells.
+
+---
+
+Places: 
+
+Places are a number of, well, places that you can remember after encountering them by backing out of the encounter rather than charging in. If you do, they will be remembered in the Places tab, and if you beat the fight you can move into them and make them your new Lair.
+
+Manor / Motte and Bailey / Monastery / Castle / Palace:
+All give you fights of increasing difficulty for increasing amounts of treasure and a noble's daughter.
+
+Ogre Den / Underwater Mansion / Ice Citadel / Volcanic Cave / Cloud Castle:
+All give you fights of increasing difficulty for a single Titan woman, who usually has a fair bit of treasure on her.
+
+Mountain Gates:
+The entrance to the Dwarf citadel, which requires a large size to batter down and an incredibly difficult fight to win, followed by another, less difficult fight. However, if you find a tower full of dwarfs in either the Sky or the Mountains, you can peek in for a guaranteed point of damage and then decipher the papers, which will tell you how to find a Back Door - going in this way will replace the first fight with a much easier one, but if you lose and retreat you'll lose the back door. Winning this fight will give you a shitload of treasure.
+
+Enchanted Wood:
+If you beat an elf guard in the Forest, you have a chance to get this location added to your Places. Entering it takes a point of magic each time you do, and you have two options: to prowl around an encounter either a druid you can fight for treasure or an elven enchantress you can fight to enslave, or to attack the grove itself for a very difficult fight for loot and a bonus elven enchantress.
+
+---
+
+Lairs: 
+Your lairs are either Defaults (you can start with them based on your traits) or Conquests (you can move in after defeating the previous inhabitants). If your traits qualify you for multiple lairs (not including the combe) you can pick between them. Changing lair loses your guards, servants, traps, and fortifications. In 4chan tradition, I will be listing these in tiers, based on their accessibility and the traits required for thieves and knights to reach them.
+
+Shit Tier:
+
+Impassable Combe: A 'combe' is a small valley, apparently. It's probably a more widely-used word in Russian. This is the default starting location if you don't qualify for any of the other starters.
+
+Okay Tier:
+
+Impregnable Peak: Default, requires Wings.
+Underwater Grotto: Default, requires Blue Head.
+Underground Burrow: Default, requires Bronze Head.
+Manor / Motte and Bailey / Monastery / Ogre Den: Conquest.
+
+Good Tier:
+
+Solitary Citadel: Default, requires wings and White Head.
+Volcano Chasm: Default, requires wings and Red Head.
+Fortress / Castle / Underwater Mansion: Conquest
+Forest Heart: Conquest from Enchanted Forest, comes with free magical traps.
+
+Dragon Tier:
+
+Volcanic Cave / Ice Citadel / Cloud Castle: Conquest
+Underground Palace: Conquest from the Dwarves, comes with free mechanical traps.
+
+---
+
+Traits:
+
+To boil things right down, there's two main types of traits to worry about here Head/Colour traits, and everything else.
+
+Everything else: the effects of these boil down to increasing attack, defence, intimidation, and magic. For attack and defence, instead of fucking about with numbers I'll just say 'major', 'moderate' or 'minor' - it's nowhere near that simple in the code but you can interpret that as +3, +2 or +1 and be reasonably close.
+
+Poisonous sting: Major attack boost.
+Claws: Moderate attack boost.
+Impenetrable scales: Moderate defence boost.
+Horns: Moderate defence boost, minor intimidation boost.
+Size: Minor attack boost, minor defence boost, minor intimidation boost.
+Feet: Minor attack boost, +1 energy.
+Wings: Minor defence boost, +1 energy.
+Ugly and terrifying: moderate intimidation boost.
+Magic: +1 magic.
+
+
+Heads and colour:
+
+By default, of course, you have one head. You can pick a colour for this head, and you will gain the effects of this colour. If you gain additional heads, this head will only serve as a second 'life' (at the expense of losing that head if you lose the 'life'), but it will allow you to take another colour for the extra head/s. The breath weapons are functionally a minor attack boost that give some extra options in certain events (eg, fire breath setting a windmill on fire) but are lost against some opponents (eg, fire breath against a fire titan).
+
+Green: Default, no effect.
+Red: Fire breath, fire immunity, lair unlock (with wings).
+White: Ice breath, ice immunity, lair unlock (with wings).
+Bronze: minor defence boost, lair unlock.
+Blue: Can swim underwater, lair unlock.
+Black: Poison breath, minor attack boost.
+Steel: Thunder breath, minor defence boost.
+Silver: +1 magic, lightning immunity.
+Gold: +1 magic, extra chance to wake up when being stolen from.
+Phantom: +1 magic, moderate intimidation boost.
+
+---
+
+Spells:
+
+Fire Breather / Ice Breather / Lightning Thrower / Thunder Roar / Toxic Breather:
+These are all minor attack bonuses that some enemies can be immune to, same as those provided by head colours.
+
+Protection from cold / fire / lightning:
+Defence bonuses against certain enemies.
+
+Sinister Aura: Gives maximum intimidation for the year.
+Wing of Wind: Gives flight and +1 energy for the year.
+Gills: Allows dragon to access the sea for the year.
+Impregnator: Dragon impregnates girls as if he had maximum magic for the year.
+Magic trap: Upgrades current lair with magical traps. Needs to be recast if a thief triggers and is killed by them.
+
+---
+
+Girls:
+
+There are ten types of girls in the game: Three types of human, mermaids, elves, and five titans. All of them have two possible spawn. The basic spawn is what you get if your current base magic is below the threshold for the girl type, including any increase from eating griffins/sharks or visiting the Witch. The Impregnator spell always gives you the improved spawn. Additionally, you will need to spend a point of magic for a spell of temporary growth if you're not large enough to fuck any of the female titans.
+
+If you let a girl loose after impregnating her, there's a chance of her being found out to be carrying demonspawn and killed. Otherwise, she'll give birth in secret and the creature will terrorize the countryside, increasing Poverty. If, however, you keep her in your lair, you can decide what happens to them. Keep in mind that without servants she'll starve to death, and without guards there's a chance she'll escape.
+
+There are four types of spawn: Wild, servant, guard, elite. You can have one of each serving in your lair, all but the wild ones can be sent to the Army of Darkness, and any of them can be released to rampage. The spawn of the mermaids and sea titanesses can only serve in Underwater Mansions or Grottos, and cannot be sent to the Army of Darkness. I haven't confirmed, but am fairly sure, that stronger spawns are better at everything they do - but I do know you don't have to pay them, unlike hired mercenaries and gremlins.
+
+Peasant girls: Acquired from a number of encounters in the rural areas, the forest, and the sea.
+Basic: Venomous snakes. Wild.
+Improved: Basilisks. Wild.
+
+Merchant's daughter: Acquired from the marketplace of the capital, from slavers in the mountains, or pleasure yachts at sea.
+Basic: Flying snakes. Wild.
+Improved: Kobolds. Servants.
+
+Noble's daughter: Acquired from knights, coaches, or structures along the trade routes, pleasure yachts at sea, and raids on the Capital.
+Basic: Krokki. Servants.
+Improved: Lizardmen. Guards.
+
+Elfs: Acquired from the Enchanted Forest.
+Basic: Gargoyles. Guards.
+Improved: Dragonborn. Elite.
+
+Mermaids: Acquired from a number of events at sea.
+Basic: Venopus. Wild.
+Advanced: Sea Bastard. Wild.
+
+Ogress: Acquired from the Ogre Den in the Forest.
+Basic: Striga. Wild.
+Advanced: Minotaur. Elite.
+
+Siren: Acquired from the Underwater Mansion in the Sea.
+Basic: Murlocs. Guards.
+Advanced: Naga. Elite.
+
+Ifrit: Acquired from the Ice Citadel, found in the Mountains or Sky.
+Basic: Hellhound. Wild.
+Advanced: Balrog. Elite.
+
+Jotun: Acquired from the Volcanic Cave, found in the Mountains or Sky.
+Basic: Ice Worm. Wild.
+Advanced: Yeti. Elite.
+
+Titaness: Acquired from the Cloud Castle in the Sky.
+Basic: Chimera. Wild.
+Advanced: Troll. Elite.
+
+---
+
+Thieves and Knights:
+
+Knights are simple. They find equipment and track you down and call you out for a fight, at which point you can either indulge and hopefully destroy them, or you can run for it and lose your current lair. Keep an eye on them - while most knights are fairly straightforward fights, if they're lucky while searching for equipment they can give you a very rough time indeed.
+
+Thieves are a bit more complicated. Once they find you, they try to bypass your layers of defence and then abscond with as much treasure as possible. The treasure you have makes a big difference in how much you can lose - a thief can carry a lot more money's worth of dubloons than farthings. To actually steal them, however, they have to bypass your security: fortifications, wild animals, guards, elite guards, traps, magical traps, and finally, yourself. Obviously, you want to have as many layers as possible, you want your animals and guards to be as good as possible, and you can improve your own chances of waking up if you have a Gold head. However, as well as looking for your lair, the thief will also have traits and will be stocking up on equipment to bypass as much of the obstacles as possible. Spend a few farthings at the Smugglers Isle to check new thieves - if they're skilled, talented, or stocking up on troublesome items, it'll probably be cheaper to pay for them to be killed rather than risk their taking their pick of your horde.
+
+Both have to reach you first - for example, if your lair is underwater, they'll need to either be able to swim or find equipment that will allow that. Each lair also has an inaccessability stat that determines how hard you are to find. A good lair can really cut down on how much trouble these guys give you.
